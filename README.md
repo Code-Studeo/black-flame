@@ -58,4 +58,3 @@ As miniaturas originais de `imagens-referencia/` foram preservadas. A imagem do 
 ## Ficção e configuração
 
 BLACK FLAME não é uma empresa real. Endereço, telefone, cardápio, preços e todas as falas de clientes são ilustrativos. Nenhuma avaliação ou credencial real é alegada. O formulário não envia nem persiste informações. Substitua `[Nome / estúdio]` no rodapé pelo crédito de portfólio desejado antes de publicar.
-

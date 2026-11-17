@@ -1,0 +1,11 @@
+{
+  "name": "black-flame-conceitual",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "build": "node scripts/check-build.mjs",
+    "test": "node --test"
+  }
+}
